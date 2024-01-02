@@ -1,2 +1,2 @@
-# Personal_Training_Dashboard
-Dashboard for organizing my personal training clients and workouts
+# Personal Training Dashboard
+This program is an all-in-one location to store client information as well as specific workouts/workout plans for my work as a personal trainer. After logging in, I as the trainer can complete a variety of tasks, such as adding/removing clients, creating workouts, building workout plans, assigning certain plans to clients, message clients, and generate session reports to recap the workout to be sent to clients. On the other side, clients can log in to view progress/current plan, get exercise suggestions, and message their trainer.
